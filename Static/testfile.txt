@@ -1,0 +1,4 @@
+Welcome to the Go Web Server!
+
+Welcome!!!
+This is a simple text file to demonstrate the server's ability to handle various file types.
